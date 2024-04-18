@@ -6,8 +6,8 @@ These splits are based on the original splits of the FSCIL benchmark, following 
 
 The splits can be found in the following [Google Drive shared folder](https://drive.google.com/drive/folders/1nVZJFySisbrq0t8ReGX6Yyg2MOtAkCdQ?usp=drive_link). You must download just the folders relative to this paper, so:
 - [`cifar100/cpe-clip-cifar100-splits.zip`](https://drive.google.com/file/d/1TpDUpUoy6pHUShbmnaRYFs1TfydV65-e/view?usp=drive_link).
-- [`cub200/cpe-clip-cub200-splits.zip`](https://drive.google.com/file/d/1PumwrWQCNZTBbgW6bbZ6NDD4xyA0wGfH/view?usp=drive_link).
-- [`miniimagenet/cpe-clip-miniimagenet-splits.zip`](https://drive.google.com/file/d/1eoxn4gAJ_3823Xh4yDzhVoklANFOYgkR/view?usp=drive_link).
+- [`cub200/cpe-clip-cub200-splits.zip`](https://drive.google.com/file/d/1JEtSvUTJfVaycysCiIgoqLexHlEeubb1/view?usp=drive_link).
+- [`miniimagenet/cpe-clip-miniimagenet-splits.zip`](https://drive.google.com/file/d/1-E_5KdghD5qyQ3mFefErn9Y-jI8iE2WZ/view?usp=drive_link).
 
 Once you have downloaded the `.zip` files, place them in the `/splits` folder and extract them.
 
